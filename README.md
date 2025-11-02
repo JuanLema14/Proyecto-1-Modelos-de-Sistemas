@@ -29,7 +29,7 @@ Proyecto-1-Modelos-de-Sistemas/
 ├── 01_exploración.py          # Análisis exploratorio de datos
 ├── 02_preprocesado.py          # Preprocesamiento y entrenamiento del modelo
 ├── README.md                   # Este archivo
-└── kaggle.json                 # Credenciales de Kaggle (no incluido en repo)
+└── kaggle.json                 
 ```
 
 ---
