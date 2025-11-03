@@ -38,7 +38,7 @@ Proyecto-1-Modelos-de-Sistemas/
 
 ### 1. Video Explicativo (3-4 minutos)
 
-**[Ver video](https://youtu.be/jmIibmWRDDE)**
+**[Ver video](https://drive.google.com/file/d/1pVYYp-RLQFH_aEdL70CAZgdKqutwZ4ZT/view?usp=sharing)**
 
 **Contenido del video:**
 - Explicación del preprocesamiento de datos
