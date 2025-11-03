@@ -26,8 +26,8 @@ El proyecto consiste en desarrollar un modelo de Machine Learning para predecir 
 ```
 Proyecto-1-Modelos-de-Sistemas/
 │
-├── 01_exploración.py          # Análisis exploratorio de datos
-├── 02_preprocesado.py          # Preprocesamiento y entrenamiento del modelo
+├── 01 - exploración.ipynb          # Análisis exploratorio de datos
+├── 02 - preprocesado.ipynb          # Preprocesamiento y entrenamiento del modelo
 ├── README.md                   # Este archivo
 └── kaggle.json                 
 ```
@@ -38,18 +38,18 @@ Proyecto-1-Modelos-de-Sistemas/
 
 ### 1. Video Explicativo (3-4 minutos)
 
-**[Ver video en YouTube](https://youtube.com/)**
+**[Ver video en YouTube](https://youtu.be/ObgS8TdJHQ0)**
 
 **Contenido del video:**
 - Explicación del preprocesamiento de datos
 - Transformaciones aplicadas (one-hot encoding, normalización, etc.)
-- Demostración del notebook `02_preprocesado.py`
+- Demostración del notebook `02 - preprocesado.ipynb`
 
 ---
 
 ### 2. Notebook de Preprocesamiento
 
-**Archivo:** `02_preprocesado.py`
+**Archivo:** `02 - preprocesado.ipynb`
 
 **Operaciones realizadas:**
 
