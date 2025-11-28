@@ -116,7 +116,7 @@ Limpieza y transformación de datos aplicada como base para todos los modelos:
 
 ---
 
-### **Notebook 07 - Modelo NOVA (Solución Final)** ⭐
+### **Notebook 07 - Modelo NOVA (Solución Final)**
 **Score Kaggle: 0.44355** (+1.2% mejora) - **MEJOR RESULTADO**
 
 **Configuración del ensemble ponderado:**
