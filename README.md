@@ -32,8 +32,7 @@ Proyecto-1-Modelos-de-Sistemas/
 ├── 05 - modelo con preprocesado Stacking XGB LGBM GB meta LogReg OrdinalEncoder.ipynb    # Stacking optimizado (Score: 0.43770)
 ├── 06 - modelo con preprocesado LGBM optimizado OOF FeatEng Ordinal.ipynb        # LGBM optimizado (Score: 0.43835)
 ├── 07 - modelo_solución.ipynb                                                    # Modelo NOVA - Solución final (Score: 0.44355)
-├── README.md                                                                     # Este archivo
-└── kaggle.json                 
+└── README.md                                                                     # Este archivo                 
 ```
 
 ---
