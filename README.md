@@ -37,6 +37,20 @@ Proyecto-1-Modelos-de-Sistemas/
 
 ---
 
+## Entregables - Entrega 2
+
+### 1. Video Explicativo (3-4 minutos)
+
+**[Ver video](https://drive.google.com/file/d/1pVYYp-RLQFH_aEdL70CAZgdKqutwZ4ZT/view?usp=sharing)**
+
+## Entregables - Final
+
+### 2. Video Explicativo (4-5 minutos)
+
+**[Ver video](https://youtu.be/TQ4SkwMqriA)**
+
+---
+
 ## Evolución de los modelos
 
 ### **Notebook 01 - Exploración**
