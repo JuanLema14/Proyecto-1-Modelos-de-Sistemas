@@ -31,7 +31,7 @@ Proyecto-1-Modelos-de-Sistemas/
 ├── 04 - modelo con preprocesado Ensemble GradientBoosting XGBoost LightGBM OneHot.ipynb  # Ensemble inicial (Score: 0.43284)
 ├── 05 - modelo con preprocesado Stacking XGB LGBM GB meta LogReg OrdinalEncoder.ipynb    # Stacking optimizado (Score: 0.43770)
 ├── 06 - modelo con preprocesado LGBM optimizado OOF FeatEng Ordinal.ipynb        # LGBM optimizado (Score: 0.43835)
-├── 07 - modelo_solución.ipynb                                                    # Modelo NOVA - Solución final (Score: 0.44355)
+├── 99 - modelo_solución.ipynb                                                    # Modelo NOVA - Solución final (Score: 0.44355)
 └── README.md                                                                     # Este archivo                 
 ```
 
@@ -129,7 +129,7 @@ Limpieza y transformación de datos aplicada como base para todos los modelos:
 
 ---
 
-### **Notebook 07 - Modelo NOVA (Solución Final)**
+### **Notebook 99 - Modelo NOVA (Solución Final)**
 **Score Kaggle: 0.44355** (+1.2% mejora) - **MEJOR RESULTADO**
 
 **Configuración del ensemble ponderado:**
@@ -154,7 +154,7 @@ Limpieza y transformación de datos aplicada como base para todos los modelos:
 | 04 | GB + XGB + LGBM Ensemble | **0.43284** | +16.5% |
 | 05 | Stacking (XGB + LGBM + GB + LogReg) | **0.43770** | +1.1% |
 | 06 | LightGBM Optimizado | **0.43835** | +0.15% |
-| 07 | **Modelo NOVA** (LGBM + XGB + CatBoost) | **0.44355** | +1.2% |
+| 99 | **Modelo NOVA** (LGBM + XGB + CatBoost) | **0.44355** | +1.2% |
 
 **Mejora total: +19.4% sobre el baseline**
 
